@@ -35,7 +35,7 @@ If you want to modify or explore the code, follow these steps:
 * [Tauri (Windows)](https://v2.tauri.app/start/prerequisites/) development components
 
 ### Setup Steps
-1. Clone this repository:
+1.Clone this repository:
    ```bash
    git clone https://github.com/Kannji01/Batch-Photo-Editor.git
    ```
@@ -51,3 +51,5 @@ If you want to modify or explore the code, follow these steps:
   ```bash
   npm run tauri dev
   ```
+## 👨‍💻 Author
+Developed by **[Kannji01](https://github.com/Kannji01)** as a standalone cross-platform application.
